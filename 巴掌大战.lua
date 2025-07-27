@@ -3,19 +3,19 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 
  wait(1) 
  Notification:Notify( 
-     {Title = "猫王", Description = "正在加载"}, 
+     {Title = "Hfh916", Description = "正在加载"}, 
      {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"}, 
      {Image = "http://www.roblox.com/asset/?id=4483345998", ImageColor = Color3.fromRGB(255, 84, 84)} 
  ) 
  wait(2) 
  Notification:Notify( 
-     {Title = "猫王", Description = "准备好了！"}, 
+     {Title = "Hfh916", Description = "准备好了！"}, 
      {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"}, 
      {Image = "http://www.roblox.com/asset/?id=4483345998", ImageColor = Color3.fromRGB(255, 84, 84)} 
  )
  wait(0.2)
  Notification:Notify( 
-     {Title = "猫王", Description = "支持作者猫王和小天"}, 
+     {Title = "Hfh916", Description = "支持者风御"}, 
      {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 10, Type = "image"}, 
      {Image = "http://www.roblox.com/asset/?id=4483345998", ImageColor = Color3.fromRGB(255, 84, 84)} 
  )
@@ -23,7 +23,7 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
  
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/u5vnTWue"))()
 
-local Window = Library:Window("猫王", "猫脚本--巴掌大战")
+local Window = Library:Window("Hfh916", "黄脚本--巴掌大战")
 
 Player = Window:Tab("主要")
 
@@ -376,10 +376,10 @@ end)
 
 About = Window:Tab("关于")
 
-About:Label("作者:猫猫王者")
+About:Label("作者:Hfh916")
 
 About:Button("复制作者QQ", function()
-    setclipboard("2673430159")
+    setclipboard("1357377308")
 end)
 
 game.RunService.Stepped:Connect(function()
